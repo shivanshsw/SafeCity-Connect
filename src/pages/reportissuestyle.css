@@ -1,0 +1,15 @@
+#report-issue-container{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+
+}
+#submit-issue-btns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+}
