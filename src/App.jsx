@@ -1,9 +1,10 @@
 import Login from './pages/Login.jsx';
 import ReportIssue from './pages/ReportIssue.jsx';
+import Map from './pages/Map.jsx';
 function App() {
     return (
         <div>
-            <ReportIssue />
+            <Map/>
         </div>
     );
 }
